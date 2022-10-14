@@ -16,5 +16,3 @@ hello git
 hello git
 hot-fix
 
-hot-fix
-
